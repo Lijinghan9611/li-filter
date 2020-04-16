@@ -1,0 +1,1 @@
+<view class="content"><li-filter vue-id="8dd740cc-1" datalist="{{datalist}}" height="{{height}}" data-event-opts="{{[['^change',[['change']]],['^select',[['select']]]]}}" bind:change="__e" bind:select="__e" bind:__l="__l"></li-filter><block wx:for="{{testList}}" wx:for-item="item" wx:for-index="__i0__" wx:key="value"><view>{{''+item.text+''}}</view></block></view>
