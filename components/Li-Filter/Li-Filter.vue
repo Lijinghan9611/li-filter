@@ -8,7 +8,7 @@
 					v-for="(titleItem, index) in inside_data"
 					@click="setSelectType(titleItem)"
 					v-bind:class="{ 'filter-title-item-active': SelectItem.value == titleItem.value }"
-				>
+				> 
 					{{ titleTextList[index] }}
 					<svg
 						t="1584538181539"

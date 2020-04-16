@@ -7,7 +7,7 @@
 				v-bind:style="{ backgroundColor: getActiveColor(item, level) }"
 				v-for="item in itemOut.list"
 				@click="selItemFun(item, level)"
-			>
+			> 
 				{{ item.text }}
 			</view>
 		</view>

@@ -7,7 +7,7 @@
 3、控件默认fixed置顶，组件内调用uni.getSystemInfoSync计算标题栏高度，紧贴标题栏。
 
 [点击此处，在线演示](http://www.bedmoonlight.cn/h5page/3)
-
+ 
 **使用方式：**
 
 在 ``script`` 中引用组件 

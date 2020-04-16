@@ -8,7 +8,7 @@
 		v-for="item in datalist">
 			{{ item.text }} 
 			<i class='filter-signal-item-active' v-show="selected.value == item.value">✔</i>
-		</view>
+		</view> 
 	</view>
 </template>
 

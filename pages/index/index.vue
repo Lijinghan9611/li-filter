@@ -9,7 +9,7 @@
 		<view>
 			标题占位 
 		</view>
-		<view>
+		<view> 
 			标题占位 
 		</view>
 		<LiFilter @change="change" @select="select" :datalist="datalist" :height="height"></LiFilter>
